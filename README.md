@@ -1,6 +1,6 @@
-Dotnet Core SDK version used: 3.1.301 (commit 7feb845744)
-Dotnet Core project initialization command: `dotnet new webapi --no-https`
-Dotnet Core project publish command: `dotnet publish -r win-x64`
+Dotnet Core SDK version used: 3.1.301 (commit 7feb845744)  
+Dotnet Core project initialization command: `dotnet new webapi --no-https`  
+Dotnet Core project publish command: `dotnet publish -r win-x64`  
 
 Project target: netcoreapp3.1
 
